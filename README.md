@@ -27,7 +27,7 @@
 
 ### 下载
 
-从 [Releases](https://github.com/wenyu1102/online-time-keeper/releases) 下载 `在线时长助手.exe`（单文件，免安装，双击即用）。
+从 [Releases](https://github.com/wenyu1102/online-time-keeper/releases) 下载 `OnlineTimeKeeper-v1.0.0.exe`（单文件，免安装，双击即用）。
 
 > 首次运行如遇 SmartScreen 提示「Windows 已保护你的电脑」，点「更多信息 → 仍要运行」即可（未签名的个人开源程序）。
 
