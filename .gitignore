@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 构建产物
+build/
+dist/
+*.spec
+
+# 便携版 Python（本地构建工具，不入库）
+python-tools/
+python-installer.exe
+
+# 应用运行数据（含个人考勤记录，请勿上传）
+data/
+
+# 测试残留
+selftest_tmp/
+selftest_out.txt
+screenshot.png
+tk_test*.txt
+redir_test.txt
+
+# 编辑器
+.vscode/
+.idea/
